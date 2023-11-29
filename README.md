@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorss77
 - 👀 I’m interested in data science projects
-- 🌱 I’m currently learning forecast and clustering methods
+- 🌱 I’m currently working with classificantion and clustering
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/igor-santoss/)
 
